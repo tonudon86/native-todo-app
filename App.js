@@ -23,7 +23,7 @@ export default function App() {
     <View style={styles.container}>
       {/* Todays task */}
       <View style={styles.taskWrapper}>
-        <Text style={styles.sectionTitle} >Pankaj's Task</Text>
+        <Text style={styles.sectionTitle} >Suryasen's Task</Text>
         <View style={styles.items}>
           {
             taskItems.map((item,index)=>{
